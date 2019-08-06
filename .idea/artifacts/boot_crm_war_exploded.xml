@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="boot-crm:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/boot_crm_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="boot-crm/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="boot-crm" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="ant-launcher-1.9.6" />
+          <element id="library" level="project" name="commons-pool2-2.6.2" />
+          <element id="library" level="project" name="Spring-4.3.18.RELEASE" />
+          <element id="library" level="project" name="spring-aspects-4.3.6.RELEASE" />
+          <element id="library" level="project" name="spring-jdbc-4.3.6.RELEASE" />
+          <element id="library" level="project" name="Spring MVC-4.3.18.RELEASE" />
+          <element id="library" level="project" name="servlet-api" />
+          <element id="library" level="project" name="ant-1.9.6" />
+          <element id="library" level="project" name="commons-lang3-3.4" />
+          <element id="library" level="project" name="jackson-annotations-2.8.6" />
+          <element id="library" level="project" name="taglibs-standard-impl-1.2.5" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

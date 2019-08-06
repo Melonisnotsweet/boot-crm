@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="ant-launcher-1.9.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ant-launcher-1.9.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ant-1.9.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/asm-5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/aspectjweaver-1.8.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cglib-3.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-dbcp2-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-pool2-2.4.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
